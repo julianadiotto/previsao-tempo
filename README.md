@@ -23,4 +23,4 @@ O maior desafio deste projeto foi lidar com a instabilidade de bancos de imagens
 
 A solução: Implementei um sistema de mapeamento interno onde as chaves de resposta da API (ex: `Rain`, `Clouds`) são vinculadas a caminhos de arquivos locais otimizados. Isso não só eliminou os erros de carregamento, como também melhorou a performance de carregamento da página.
 
-
+[Clique aqui para visualizar o projeto](https://julianadiotto.github.io/previsao-tempo/)
