@@ -24,7 +24,7 @@ body {
     background-attachment: fixed; /* Mantém o fundo parado enquanto o conteúdo rola */
     
     /* Imagem inicial */    
-    background-image: url("./img/default.jpg");
+    background-image: url("./img/default.jpeg");
     
     /* Transição suave para a troca */
     transition: background-image 0.8s ease-in-out;
